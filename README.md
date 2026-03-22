@@ -1,7 +1,6 @@
 # 🚀 AI Portfolio – Om Shankar Thakur
 
 🌐 **Live Demo:** https://portfolio-omshankar-beryl.vercel.app/
-📂 **GitHub Repo:** https://github.com/Om-Shankar-Thakur/portfolio_ai
 
 ---
 
