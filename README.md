@@ -1,36 +1,156 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 AI Portfolio – Om Shankar Thakur
 
-## Getting Started
+🌐 **Live Demo:** https://portfolio-omshankar-beryl.vercel.app/
+📂 **GitHub Repo:** https://github.com/Om-Shankar-Thakur/portfolio_ai
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 📌 Overview
+
+This is a **premium AI-powered personal portfolio website** built to showcase my work as an **AI/ML Engineer and Automation Specialist**.
+
+The portfolio features a modern **scrollytelling experience**, interactive UI, and highlights my work in:
+
+* Generative AI
+* Retrieval-Augmented Generation (RAG)
+* Automation Testing & Self-Healing Frameworks
+* Real-world AI applications
+
+---
+
+## ✨ Key Features
+
+* 🎬 **Scroll-based Animation (Scrollytelling)** using Canvas
+* 🌑 **Modern Dark UI with Glassmorphism**
+* ⚡ **High Performance Rendering (Canvas + requestAnimationFrame)**
+* 📱 **Fully Responsive Design**
+* 🧠 **Showcases AI Projects, Experience & Skills**
+* 🚀 **Deployed on Vercel with CI/CD**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* Next.js 14 (App Router)
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+### Core Concepts
+
+* Canvas-based Rendering
+* Scroll-linked Animation
+* Component-driven Architecture
+
+### Deployment
+
+* Vercel (CI/CD enabled)
+
+---
+
+## 📂 Project Structure
+
+```
+portfolio_ai/
+│── public/
+│   └── sequence/        # Image frames for animation
+│
+│── src/
+│   ├── app/
+│   ├── components/
+│   │   ├── ScrollyCanvas.tsx
+│   │   ├── Overlay.tsx
+│   │   ├── About.tsx
+│   │   ├── Experience.tsx
+│   │   ├── Projects.tsx
+│   │   ├── Skills.tsx
+│   │   └── Contact.tsx
+│
+│── package.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 1. Clone the repository
 
-## Learn More
+```
+git clone https://github.com/Om-Shankar-Thakur/portfolio_ai.git
+cd portfolio_ai
+```
 
-To learn more about Next.js, take a look at the following resources:
+### 2. Install dependencies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+npm install
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 3. Run locally
 
-## Deploy on Vercel
+```
+npm run dev
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👉 Open: http://localhost:3000
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ⚠️ Important Note
+
+Ensure the animation assets are correctly placed:
+
+```
+public/sequence/frame_001.webp
+```
+
+If this folder is missing, the animation will not work.
+
+---
+
+## 🧠 Featured Work
+
+This portfolio highlights my work on:
+
+* AI Mock Interview System (Voice + LLM)
+* Edu.AI – RAG-based Course Recommendation
+* Self-Healing Selenium Framework
+* Multilingual Speech Translator (Whisper + TTS)
+* AI for Sustainable Agriculture
+
+---
+
+## 📈 Future Enhancements
+
+* 🤖 AI Chatbot (Resume-based Q&A using RAG)
+* 🎤 Voice Assistant Integration (Whisper + TTS)
+* 📊 Live Project Demonstrations
+* 🌍 Custom Domain Deployment
+
+---
+
+## 👨‍💻 About Me
+
+**Om Shankar Thakur**
+AI/ML Engineer | Automation Specialist
+
+* 🎓 B.Tech CSE (Amity University Jharkhand, CGPA: 8.98)
+* 💼 Programmer Analyst Trainee @ Cognizant
+* 🤖 Passionate about Generative AI, NLP, and Automation
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [om.work466@gmail.com](mailto:om.work466@gmail.com)
+* 💻 GitHub: https://github.com/Om-Shankar-Thakur
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
+
+---
