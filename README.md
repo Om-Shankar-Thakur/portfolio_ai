@@ -135,7 +135,7 @@ This portfolio highlights my work on:
 **Om Shankar Thakur**
 AI/ML Engineer | Automation Specialist
 
-* 🎓 B.Tech CSE (Amity University Jharkhand, CGPA: 8.98)
+* 🎓 B.Tech CSE (Amity University)
 * 💼 Programmer Analyst Trainee @ Cognizant
 * 🤖 Passionate about Generative AI, NLP, and Automation
 
